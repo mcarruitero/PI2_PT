@@ -37,3 +37,5 @@ Aumentar en un 2% el acceso al servicio de internet mediante fibra óptica para 
 El dashboard permite monitorear el rendimiento de una empresa asi como a identificar áreas de mejora y oportunidades de crecimiento para la toma de decisiones en el sector de las telecomunicaciones.
 
 La visualización de los datos se realizó con Power BI. [Dashboard](https://github.com/mcarruitero/PI2_PT/blob/main/PI2_Dashboard.pbix)
+
+![alt text](https://github.com/mcarruitero/PI2_PT/blob/main/Images/PI2_Dashboard.jpg "Dashboard")
