@@ -1,5 +1,7 @@
 # Proyecto Individual Numero 2 Analisis de Datos
 
+![Dashboard](/Images/antenna-cell-towers.jpg)
+
 Con el rol de Data Analyst realizo un proyecto sobre las telecomunicaciones en Argentina.
 Se explica el proyecto desde el EDA, hasta algunas conclusiones sobre los datos y KPI´s así como el uso de Power BI para el dashboard final.
 
@@ -38,4 +40,4 @@ El dashboard permite monitorear el rendimiento de una empresa asi como a identif
 
 La visualización de los datos se realizó con Power BI. [Dashboard](https://github.com/mcarruitero/PI2_PT/blob/main/PI2_Dashboard.pbix)
 
-["Dashboard"](https://github.com/mcarruitero/PI2_PT/blob/main/Images/PI2_Dashboard.png "Dashboard")
+![Dashboard](/Images/PI2-Dashboard.jpg)
