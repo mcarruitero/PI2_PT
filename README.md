@@ -38,4 +38,4 @@ El dashboard permite monitorear el rendimiento de una empresa asi como a identif
 
 La visualización de los datos se realizó con Power BI. [Dashboard](https://github.com/mcarruitero/PI2_PT/blob/main/PI2_Dashboard.pbix)
 
-![alt text](https://github.com/mcarruitero/PI2_PT/blob/main/Images/PI2_Dashboard.png "Dashboard")
+["Dashboard"](https://github.com/mcarruitero/PI2_PT/blob/main/Images/PI2_Dashboard.png "Dashboard")
